@@ -29,7 +29,7 @@ The project aims to use a company's raw customer data to generate insights that 
 ## Team: AVAPSA
 
 - [Emirhan YALÇIN](https://github.com/emirhaan11)
-- [Alara BALABAN](https://github.com/balaban0)
+- [Sudenaz Alara BALABAN](https://github.com/balaban0)
 
 ---
 
